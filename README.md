@@ -7,15 +7,12 @@ The dashboard provides both an **executive-level summary** and a **branch-level 
 
 The analysis focuses on **Q2 2024**, with **quarter-over-quarter comparisons** to track changes in performance.
 
----
 
-## 🖼️ Dashboard Snapshot
+### Executive Summary View
+![Retail Audit Executive Summary](Retail%20Audit%20Dashboard%20Screen%201.png)
 
-### Executive Summary Dashboard
-![Retail Audit Executive Dashboard](retail-audit-executive-dashboard.png)
-
-### Branch Summary Dashboard
-![Retail Audit Branch Dashboard](retail-audit-branch-dashboard.png)
+### Branch Summary View
+![Retail Audit Branch Summary](Retail%20Audit%20Dashboard%20Screen%202.png)
 
 ---
 
