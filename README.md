@@ -37,6 +37,16 @@ The analysis is done  **at a Quarterly level**, with **quarter-over-quarter comp
 
 ---
 
+## 🏬 Branch Summary View (Gives Branch Level Insights for each of the 200 Branches in the Retail Network)
+
+### Key Metrics
+- Overall Branch Score
+- Branch Level Audit Dimension Score (Governance/Liquidity/Operations/Profitability)
+- KPI Risk Category Distribution based on Selected Audit Dimension
+- KPI Level Scoring and Risk Categorization based on Selected Audit Dimension (Liquidity)
+
+---
+
 ## 🧩 Audit Dimensions and Scoring Methodology
 
 Each branch is evaluated across the following audit dimensions:
@@ -83,15 +93,6 @@ and the Risk Categorization for the audit dimension (High/Medium/Low) is then do
 The dashboard highlights **critical branches** based on low or deteriorating scores across key dimensions.  
 This enables targeted audits, operational interventions, and risk mitigation actions.
 
----
-
-## 🏬 Branch Summary Dashboard View (Gives Branch Level Insights for each of the 200 Branches in the Retail Network)
-
-### Key Metrics**
-**Overall Branch Score**
-**Branch Level Audit Dimension Score (Governance/Liquidity/Operations/Profitability)** 
-**KPI Risk Category Distribution based on Selected Audit Dimension**
-**KPI Level Scoring and Risk Categorization based on Selected Audit Dimension (Liquidity)**
 ---
 
 ## 🧠 Tools & Technologies
