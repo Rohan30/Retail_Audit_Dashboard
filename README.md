@@ -53,7 +53,31 @@ Each branch is evaluated across the following dimensions:
 - **Operations**
 - **Profitability**
 
-For each branch, each dimension is scored and categorized as **High, Medium, or Low**. Then, the branch score is arrived at by taking the average of the scores across the 4 audit dimensions thereby providing a multidimensional view of branch risk and performance.
+- **Each of the Audit Dimensions gets scored from 0-3 and then a Risk Category is assigned based on the score (High/Medium/Low)**
+
+For each branch, each dimension is scored and categorized as **High, Medium, or Low**. Then, the branch score is arrived at by taking the **average of the scores across the 4 audit dimensions** thereby providing a multidimensional view of branch risk and performance. 
+
+For **High Risk Category**, the branch score across an **audit dimension(Governance/Liquidity/Operations/Profitability)** must be between **0-1.66**.
+For **Medium Risk Category**, the branch score across an **audit dimension(Governance/Liquidity/Operations/Profitability)** must be between **1.66-2.33**.
+For **Low Risk Category**, the branch score across an **audit dimension(Governance/Liquidity/Operations/Profitability)** must be between **2.34-3**.
+
+**Also, each of these 4 audit dimensions have their respective KPIs based on which the performance is evaluated.**
+For **Governance**, there are **10 KPIs**
+For **Liquidity**, there are **5 KPIs**
+For **Operations**, there are **6 KPIs**
+For **Profitability**, there are **8 KPIs**
+
+**Each of the KPIs for an audit dimension are scored from 0-3 and the audit dimension score is arrived at by taking the average of the scores across the KPIs for that audit dimension. (Governance has 10 KPIs, so the Governance Score is the average of the scores of the 10 KPIs)**
+
+Once the audit dimension score is calculated for each branch, then the branch overall score is arrived at by taking the **average of the scores across the 4 audit dimensions**. 
+
+**At an Overall Level(across the 200 branches in the Retail Network)**
+
+**The Overall Governance, Liquidity, Operations and Profitability score is computed by taking the average of audit dimension scores for each of the dimension (Overall Governance Score = Sum of Governance Score across 200 branches/200)
+and the Risk Categorization for the audit dimension (High/Medium/Low) is then done based on the score thresholds mentioned above.**
+
+**The Overall Retail Network Score is then computed by taking the average of each of the Overall Audit Dimension Scores and the corresponding Risk Category is assigned as well following the same scoring thresholds**
+
 
 ---
 
