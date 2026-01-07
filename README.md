@@ -2,7 +2,7 @@
 
 ## 🔍 Project Overview
 
-This project presents a **Retail Audit Dashboard** designed to evaluate **branch-level performance, risk exposure, and operational health** across a retail network.  
+This project presents a **Retail Audit Dashboard** designed to evaluate **branch-level performance, risk exposure, and operational health** across a retail network of **200 stores**.  
 The dashboard provides both an **executive-level summary** and a **branch-level deep dive**, enabling stakeholders to identify underperforming branches, assess risk dimensions, and monitor performance trends over time.
 
 The analysis is done  **at a Quarterly level**, with **quarter-over-quarter comparisons** to track changes in performance.
@@ -30,16 +30,17 @@ The analysis is done  **at a Quarterly level**, with **quarter-over-quarter comp
 
 ### Key Metrics
 - **Total Branches Audited:** 200
-- **Overall Score (Q2’24):** 1.9  
+- **Overall Retail Network Score (Q2’24):** 1.9  
 - **Quarter-over-Quarter Change:** -7.5%
 
-### Overall Score Distribution
+### Risk Distribution of Branches in the Retail Network
+- **Each of the branches in the Retail Network are categorized into Low/Medium/High Risk Category depending on the performance across the 4 audit dimensions (Governance, Liquidity, Operations and Profitability)**
 - **Medium:** 114 branches
 - **Low:** 74 branches
 - **High:** 12 branches
 
 ### Performance Trend
-Quarterly performance trends from **Q1’24 to Q1’25** highlight fluctuations in overall audit scores, enabling leadership to track systemic improvements or deterioration.
+Quarterly performance trends from **Q1’24 to Q1’25** highlight fluctuations in overall Retail Network score, enabling leadership to track systemic improvements or deterioration.
 
 ---
 
@@ -52,7 +53,7 @@ Each branch is evaluated across the following dimensions:
 - **Operations**
 - **Profitability**
 
-Each dimension is scored and categorized as **High, Medium, or Low**, providing a multidimensional view of branch risk and performance.
+For each branch, each dimension is scored and categorized as **High, Medium, or Low**. Then, the branch score is arrived at by taking the average of the scores across the 4 audit dimensions thereby providing a multidimensional view of branch risk and performance.
 
 ---
 
