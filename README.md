@@ -85,14 +85,6 @@ and the Risk Categorization for the audit dimension (High/Medium/Low) is then do
 
 **The Overall Retail Network Score is then computed by taking the average of each of the 4 Overall Audit Dimension Scores and the corresponding Risk Category is assigned as well following the same scoring thresholds**
 
-
----
-
-## 🚨 Critical Branch Identification
-
-The dashboard highlights **critical branches** based on low or deteriorating scores across key dimensions.  
-This enables targeted audits, operational interventions, and risk mitigation actions.
-
 ---
 
 ## 🧠 Tools & Technologies
