@@ -85,34 +85,13 @@ This enables targeted audits, operational interventions, and risk mitigation act
 
 ---
 
-## 🏬 Branch-Level Analysis
+## 🏬 Branch Summary Dashboard View (Gives Branch Level Insights for each of the 200 Branches in the Retail Network)
 
-### Branch Summary Dashboard Example
-**Branch ID:** BR-0010  
-**Branch Type:** Express Store  
-**Location:** Deira Street, Dubai  
-**Overall Score:** 2.0  
-**Quarter-over-Quarter Change:** -12.1%
-
-### Dimension Scores
-- **Governance Score:** 1.9  
-- **Liquidity Score:** 2.2  
-- **Operations Score:** 1.8  
-- **Profitability Score:** 2.1  
----
-
-## 💧 Liquidity & Financial KPIs
-
-Key liquidity indicators used in the audit include:
-
-- **Current Ratio**
-- **Quick Ratio**
-- **Net Financial Cash (Normalized)**
-- **Net Investing Cash (Normalized)**
-- **Net Operating Cash (Normalized)**
-
-These KPIs provide deeper insight into branch-level financial stability and cash flow health.
-
+### Key Metrics**
+**Overall Branch Score**
+**Branch Level Audit Dimension Score (Governance/Liquidity/Operations/Profitability)** 
+**KPI Risk Category Distribution based on Selected Audit Dimension**
+**KPI Level Scoring and Risk Categorization based on Selected Audit Dimension (Liquidity)**
 ---
 
 ## 🧠 Tools & Technologies
