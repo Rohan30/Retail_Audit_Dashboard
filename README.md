@@ -5,7 +5,7 @@
 This project presents a **Retail Audit Dashboard** designed to evaluate **branch-level performance, risk exposure, and operational health** across a retail network.  
 The dashboard provides both an **executive-level summary** and a **branch-level deep dive**, enabling stakeholders to identify underperforming branches, assess risk dimensions, and monitor performance trends over time.
 
-The analysis focuses on **Q2 2024**, with **quarter-over-quarter comparisons** to track changes in performance.
+The analysis is done  **at a Quarterly level**, with **quarter-over-quarter comparisons** to track changes in performance.
 
 
 ### Executive Summary View
