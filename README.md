@@ -26,21 +26,14 @@ The analysis is done  **at a Quarterly level**, with **quarter-over-quarter comp
 
 ---
 
-## 📊 Executive Summary – Network Overview
+## 📊 Executive Summary – Retail Network Overview
 
 ### Key Metrics
-- **Total Branches Audited:** 200
-- **Overall Retail Network Score (Q2’24):** 1.9  
-- **Quarter-over-Quarter Change:** -7.5%
-
-### Risk Distribution of Branches in the Retail Network
-- **Each of the branches in the Retail Network are categorized into Low/Medium/High Risk Category depending on the performance across the 4 audit dimensions (Governance, Liquidity, Operations and Profitability)**
-- **Medium:** 114 branches
-- **Low:** 74 branches
-- **High:** 12 branches
-
-### Performance Trend
-Quarterly performance trends from **Q1’24 to Q1’25** highlight fluctuations in overall Retail Network score, enabling leadership to track systemic improvements or deterioration.
+- **Overall Retail Network Score** 
+- **Risk Distribution of Branches in the Retail Network** - **Low/Medium/High Risk Category**
+- **Overall Audit Dimension Score across 4 Audit Dimensions**
+- **Risk Distribution of Branches based on selected Audit Dimension** - **Low/Medium/High Risk Category**
+- **Branch Level Overall Score, Audit Dimension Scores and Risk Category**
 
 ---
 
@@ -106,10 +99,6 @@ This enables targeted audits, operational interventions, and risk mitigation act
 - **Liquidity Score:** 2.2  
 - **Operations Score:** 1.8  
 - **Profitability Score:** 2.1  
-
-### Performance Trend
-Branch-level performance is tracked across quarters to detect early warning signals and structural issues.
-
 ---
 
 ## 💧 Liquidity & Financial KPIs
